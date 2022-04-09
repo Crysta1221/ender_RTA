@@ -36,4 +36,4 @@ tag @a remove death
 
 #Finish Message
 tellraw @a [{"text":"["},{"text":"Info","color":"dark_green"},{"text":"]","color":"white"},{"text":"エンドラ","color":"dark_purple"},{"text":"討伐","color":"red"},{"text":"RTA","color":"gray"},{"text":"のリセット/再読み込みが完了しました","color":"white"}]
-tellraw @a [{"text":"エンドラ討伐RTA データパック ver:2.1","color":"gray"}]
+tellraw @a [{"text":"エンドラ討伐RTA データパック ver:2.2","color":"gray"}]
